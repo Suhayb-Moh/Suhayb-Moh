@@ -12,7 +12,7 @@ I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time codi
 - 🔭 I’m currently learning Nodejs and GraphQL
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Frontend sides.
-- 📫 How to reach me: mubarakshabel0@gmail.com.
+- 📫 How to reach me: suhaybmaxamed@gmail.com.
 
 #### Top Technologies
 
