@@ -1,28 +1,29 @@
-## Hi I'm Suhayb <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center">Hi 👋, I'm Suhayb</h1>
+<h3 align="center">A passionate frontend developer from Somaliland, I work for private sector as software engineer, I have 2 years of experience as a frontend developer.</h3>
+<img align="right" alt="Coding" width="400" src="http://https://s3.amazonaws.com/cdnl.iconscout.com/lottie/free/preview/4308322.gif?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4VMJAKC54WWWCYMY%2F20220627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220627T072411Z&X-Amz-SignedHeaders=host&X-Amz-Expires=232549&X-Amz-Signature=2083156f263416f5fde74844573d1a6512d5e6bfffc22864f8524414172caa7f">
 
-Hi👋, my name is Suhayb, and I work for private sector as software engineer right now. I have 2 years of experience as a software developer. I am skilled in JavaScript, React, Nodejs, TypeScript,
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhayb-moh&label=Profile%20views&color=0e75b6&style=flat" alt="suhayb-moh" /> </p>
 
-:mailbox: Reach me out!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhayb-moh" alt="suhayb-moh" /></a> </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Suhayb_Mo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Suhayb_Mo@) [![Linkedin Badge](https://img.shields.io/badge/-Suhayb-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhayb-mohamed-a34021141/) [![Mail Badge](https://img.shields.io/badge/-Suhayb-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:suhaybmaxamed@gmail.com)
+- 🔭 I’m currently working on **Expense Tracker**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<!-- TODO: Add last video link -->
+- 🌱 I’m currently learning **React, and React Native**
 
-- 🔭 I’m currently learning Nodejs and GraphQL
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Frontend sides.
-- 📫 How to reach me: suhaybmaxamed@gmail.com.
+- 💬 Ask me about **JavaScript, React, Nodejs, Typescript, Mongodb**
 
-#### Top Technologies
+- 📫 How to reach me **suhaybmaxamed@gmail.com**
 
+- ⚡ Fun fact **I think i am in love with JavaScript smile 😁**
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/suhayb_mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhayb_mo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suhayb-mohamed-a34021141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhayb-mohamed-a34021141/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/suhayb.mahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suhayb.mahamed" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/suhayb_mohamed__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suhayb_mohamed__/" height="30" width="40" /></a>
+</p>
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhayb-moh&show_icons=true&locale=en&layout=compact" alt="suhayb-moh" /></p>
 
-
-#### Github Stats
-
-![Suhayb's github stats](https://github-readme-stats.vercel.app/api?username=iamshabell&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhayb-moh&show_icons=true&locale=en" alt="suhayb-moh" /></p>
