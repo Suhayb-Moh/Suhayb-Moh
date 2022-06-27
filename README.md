@@ -1,3 +1,8 @@
+<img src="https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2147483647&v=beta&t=_9FtKJcA9d2CdwIVXRLesSUgYymeUYZ6GlVYi2IxFY0" align="left" height="250" width="1000" />  
+
+<br />
+
+
 ## Hey 👋, I'm Suhayb!  
   
 
@@ -25,6 +30,12 @@
 
 ### Glad to see you here!  
 A passionate frontend developer from Somaliland, I work for private sector as software engineer, I have 2 years of experience as a frontend developer.  
+  
+
+![]()  
+  
+
+![]()  
   
 
 <br/>  
@@ -104,8 +115,8 @@ A passionate frontend developer from Somaliland, I work for private sector as so
 
 <br/>  
 
+  
 
-<br />
+<br/>  
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
